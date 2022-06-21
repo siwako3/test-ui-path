@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "59kwLDmI2FQNQw01lfLiZgfEZeXaUYQvk9J6a3YFNfA5cvGtRaDauAWDv0HQ3PFKYXJZ5d2Oi0nWX9pqpGoR7Q==",
+  "dgSpecHash": "+XD1IB5yuW2YH0BYRlhlZ/+Q0FOfi5y3+T3H/JBcQbRJWPDcYyp1mwj40faAXXPxIxXZNYDi5JzWHvXk5wZ56Q==",
   "success": true,
-  "projectFilePath": "\\\\Mac\\Home\\Documents\\UiPath\\test\\.local\\",
+  "projectFilePath": "\\\\mac\\Home\\Documents\\UiPath\\hello\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\siwakorntulsook\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\siwakorntulsook\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",

@@ -8417,9 +8417,9 @@
     "restore": {
       "projectUniqueName": "test",
       "projectName": "test",
-      "projectPath": "\\\\Mac\\Home\\Documents\\UiPath\\test\\.local",
+      "projectPath": "\\\\mac\\Home\\Documents\\UiPath\\hello\\.local",
       "packagesPath": "C:\\Users\\siwakorntulsook\\.nuget\\packages\\",
-      "outputPath": "\\\\Mac\\Home\\Documents\\UiPath\\test\\.local"
+      "outputPath": "\\\\mac\\Home\\Documents\\UiPath\\hello\\.local"
     },
     "frameworks": {
       "net461": {
