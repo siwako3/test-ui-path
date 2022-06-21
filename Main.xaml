@@ -64,6 +64,6 @@
         <x:Boolean x:Key="IsExpanded">True</x:Boolean>
       </scg:Dictionary>
     </sap:WorkflowViewStateService.ViewState>
-    <uix:NGoToUrl DisplayName="Go To URL" sap:VirtualizedContainerService.HintSize="334,82" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="www.turkturk.com" Version="V1" />
+    <uix:NGoToUrl DisplayName="Go To URL" sap:VirtualizedContainerService.HintSize="334,82" sap2010:WorkflowViewState.IdRef="NGoToUrl_1" Url="www.turk.com" Version="V1" />
   </Sequence>
 </Activity>
